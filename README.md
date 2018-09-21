@@ -1,5 +1,5 @@
 # NtpClientLib
-
+Trying to get the factional part of millis() on getEpochTime() function. That change will help me to compare more precisely the time when the packet goes out from ESP to a Broker using Wireshark.
 ## Introduction
 There are some NTP client examples around. You can see some examples, like [this](https://www.arduino.cc/en/Tutorial/UdpNTPClient).
 
